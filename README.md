@@ -75,7 +75,7 @@ Obiettivo KPI = 535
 
 ## 🎨 Design
 
-- **Theme**: Custom E80-inspired color palette
+- **Theme**: Custom color palette
 - **Primary color**: `#1A2B4A` Navy Blue
 - **Accent color**: `#E67E22` Orange
 - **Positive indicator**: `#2ECC71` Green
